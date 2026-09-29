@@ -1,0 +1,13 @@
+{
+    "threshold": 0.5876109600067139,
+    "percentile_95": 0.5412639379501343,
+    "percentile_99": 0.5876109600067139,
+    "mean_score": 0.3757166564464569,
+    "std_score": 0.10366332530975342,
+    "neighbors": 5,
+    "image_size": 224,
+    "feature_dimension": 1280,
+    "training_samples": 991,
+    "metric": "cosine",
+    "model": "efficientnet_b0"
+}
