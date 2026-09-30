@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names: ['Ac', 'Chair', 'Cpu', 'Digital board', 'Fire Extinguisher', 'Keyboard', 'Light', 'Monitor', 'Mouse', 'Projector']

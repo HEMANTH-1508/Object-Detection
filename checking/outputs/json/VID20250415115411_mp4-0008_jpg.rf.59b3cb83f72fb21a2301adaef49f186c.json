@@ -1,0 +1,27 @@
+{
+    "image": "VID20250415115411_mp4-0008_jpg.rf.59b3cb83f72fb21a2301adaef49f186c.jpg",
+    "detections": [
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.8596,
+            "bounding_box": {
+                "x1": 90.23,
+                "y1": 152.57,
+                "x2": 182.09,
+                "y2": 366.02
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.323,
+            "bounding_box": {
+                "x1": 335.9,
+                "y1": 147.53,
+                "x2": 367.7,
+                "y2": 208.35
+            }
+        }
+    ]
+}

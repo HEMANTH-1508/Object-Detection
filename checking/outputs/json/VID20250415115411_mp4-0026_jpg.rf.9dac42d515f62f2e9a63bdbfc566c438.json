@@ -1,0 +1,82 @@
+{
+    "image": "VID20250415115411_mp4-0026_jpg.rf.9dac42d515f62f2e9a63bdbfc566c438.jpg",
+    "detections": [
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.9456,
+            "bounding_box": {
+                "x1": 532.17,
+                "y1": 3.94,
+                "x2": 613.7,
+                "y2": 124.25
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.8714,
+            "bounding_box": {
+                "x1": 135.28,
+                "y1": 330.63,
+                "x2": 242.02,
+                "y2": 450.35
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.7126,
+            "bounding_box": {
+                "x1": 505.8,
+                "y1": 204.92,
+                "x2": 639.7,
+                "y2": 640.0
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.6784,
+            "bounding_box": {
+                "x1": 342.1,
+                "y1": 106.05,
+                "x2": 432.56,
+                "y2": 340.24
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.3077,
+            "bounding_box": {
+                "x1": 412.2,
+                "y1": 508.93,
+                "x2": 586.66,
+                "y2": 639.58
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.3005,
+            "bounding_box": {
+                "x1": 10.76,
+                "y1": 442.73,
+                "x2": 176.47,
+                "y2": 640.0
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.2702,
+            "bounding_box": {
+                "x1": 258.94,
+                "y1": 49.87,
+                "x2": 307.65,
+                "y2": 225.3
+            }
+        }
+    ]
+}

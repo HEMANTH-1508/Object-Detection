@@ -1,0 +1,104 @@
+{
+    "image": "VID20250415113826_mp4-0009_jpg.rf.846f00388e330a3be101fd2d59d043be.jpg",
+    "detections": [
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.9429,
+            "bounding_box": {
+                "x1": 314.46,
+                "y1": 398.36,
+                "x2": 368.66,
+                "y2": 482.1
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.94,
+            "bounding_box": {
+                "x1": 102.44,
+                "y1": 436.66,
+                "x2": 186.57,
+                "y2": 535.33
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.9184,
+            "bounding_box": {
+                "x1": 218.67,
+                "y1": 417.13,
+                "x2": 280.49,
+                "y2": 503.32
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.9116,
+            "bounding_box": {
+                "x1": 457.12,
+                "y1": 468.13,
+                "x2": 526.66,
+                "y2": 596.47
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.879,
+            "bounding_box": {
+                "x1": 330.48,
+                "y1": 497.91,
+                "x2": 437.43,
+                "y2": 636.32
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.8683,
+            "bounding_box": {
+                "x1": 164.15,
+                "y1": 547.23,
+                "x2": 286.81,
+                "y2": 640.0
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.7235,
+            "bounding_box": {
+                "x1": 273.4,
+                "y1": 368.1,
+                "x2": 295.04,
+                "y2": 443.06
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.6785,
+            "bounding_box": {
+                "x1": 27.08,
+                "y1": 115.3,
+                "x2": 246.03,
+                "y2": 437.65
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.3691,
+            "bounding_box": {
+                "x1": 0.0,
+                "y1": 566.62,
+                "x2": 84.04,
+                "y2": 639.9
+            }
+        }
+    ]
+}

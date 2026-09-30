@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names: ['Ac', 'Chair', 'Cpu', 'Digital board', 'Fire Extinguisher', 'Keyboard', 'Light', 'Monitor', 'Mouse', 'Projector']
+
+roboflow:
+  workspace: robot-gfadi
+  project: robo-assistant
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/robot-gfadi/robo-assistant/dataset/2

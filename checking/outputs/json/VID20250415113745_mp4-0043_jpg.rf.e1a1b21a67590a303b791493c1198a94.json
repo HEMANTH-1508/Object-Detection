@@ -1,0 +1,49 @@
+{
+    "image": "VID20250415113745_mp4-0043_jpg.rf.e1a1b21a67590a303b791493c1198a94.jpg",
+    "detections": [
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.8013,
+            "bounding_box": {
+                "x1": 0.02,
+                "y1": 73.84,
+                "x2": 68.22,
+                "y2": 194.25
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.7863,
+            "bounding_box": {
+                "x1": 93.69,
+                "y1": 89.05,
+                "x2": 203.53,
+                "y2": 213.04
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.7484,
+            "bounding_box": {
+                "x1": 49.95,
+                "y1": 315.72,
+                "x2": 167.34,
+                "y2": 468.79
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.2701,
+            "bounding_box": {
+                "x1": 0.22,
+                "y1": 367.0,
+                "x2": 28.81,
+                "y2": 434.36
+            }
+        }
+    ]
+}
