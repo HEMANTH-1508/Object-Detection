@@ -1,9 +1,0 @@
-{
-    "device": "cpu",
-    "samples": 991,
-    "feature_dimension": 1280,
-    "failed_images": 0,
-    "estimated_threshold": 0.4278165102005005,
-    "image_size": 224,
-    "neighbors": 5
-}
