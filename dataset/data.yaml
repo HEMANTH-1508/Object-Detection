@@ -1,0 +1,6 @@
+path: /Users/supervuemm1/Documents/HEMANTH/Object-Detection/dataset
+train: train/images
+val: val/images
+test: test/images
+names:
+  0: monitor
