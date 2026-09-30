@@ -1,0 +1,82 @@
+{
+    "image": "k21.jpeg",
+    "detections": [
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.9561,
+            "bounding_box": {
+                "x1": 63.4,
+                "y1": 73.21,
+                "x2": 138.69,
+                "y2": 123.2
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.9496,
+            "bounding_box": {
+                "x1": 147.13,
+                "y1": 116.7,
+                "x2": 203.0,
+                "y2": 190.41
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.9349,
+            "bounding_box": {
+                "x1": 29.94,
+                "y1": 59.65,
+                "x2": 92.91,
+                "y2": 101.46
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.9,
+            "bounding_box": {
+                "x1": 135.78,
+                "y1": 61.81,
+                "x2": 202.7,
+                "y2": 106.68
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.899,
+            "bounding_box": {
+                "x1": 0.0,
+                "y1": 88.31,
+                "x2": 28.86,
+                "y2": 144.35
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.8177,
+            "bounding_box": {
+                "x1": 0.29,
+                "y1": 153.0,
+                "x2": 139.46,
+                "y2": 203.0
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.3185,
+            "bounding_box": {
+                "x1": 0.0,
+                "y1": 71.77,
+                "x2": 7.22,
+                "y2": 88.68
+            }
+        }
+    ]
+}

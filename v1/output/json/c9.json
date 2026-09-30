@@ -1,0 +1,27 @@
+{
+    "image": "c9.jpeg",
+    "detections": [
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.9208,
+            "bounding_box": {
+                "x1": 113.03,
+                "y1": 0.08,
+                "x2": 176.33,
+                "y2": 21.06
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.6173,
+            "bounding_box": {
+                "x1": 0.4,
+                "y1": 62.81,
+                "x2": 206.35,
+                "y2": 230.09
+            }
+        }
+    ]
+}

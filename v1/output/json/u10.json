@@ -1,0 +1,49 @@
+{
+    "image": "u10.jpeg",
+    "detections": [
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.9476,
+            "bounding_box": {
+                "x1": 99.38,
+                "y1": 89.79,
+                "x2": 146.29,
+                "y2": 123.93
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.9438,
+            "bounding_box": {
+                "x1": 73.29,
+                "y1": 118.93,
+                "x2": 152.15,
+                "y2": 193.52
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.8905,
+            "bounding_box": {
+                "x1": 184.78,
+                "y1": 129.55,
+                "x2": 233.97,
+                "y2": 214.6
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.3798,
+            "bounding_box": {
+                "x1": 0.02,
+                "y1": 167.85,
+                "x2": 6.85,
+                "y2": 234.0
+            }
+        }
+    ]
+}

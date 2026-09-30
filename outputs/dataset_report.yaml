@@ -1,6 +1,0 @@
-dataset_name: Computer Monitor Detection Dataset
-target_class: monitor
-total_images: 700
-total_monitors: 2781
-average_monitors_per_image: 3.97
-annotation_format: YOLO (0 cx cy w h normalized) and COCO (x y w h absolute)

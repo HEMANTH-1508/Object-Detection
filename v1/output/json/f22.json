@@ -1,0 +1,27 @@
+{
+    "image": "f22.jpeg",
+    "detections": [
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.8866,
+            "bounding_box": {
+                "x1": 0.0,
+                "y1": 0.02,
+                "x2": 192.72,
+                "y2": 128.63
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.8487,
+            "bounding_box": {
+                "x1": 1.35,
+                "y1": 95.7,
+                "x2": 224.76,
+                "y2": 289.0
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "image": "31.jpeg",
+    "detections": [
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.9476,
+            "bounding_box": {
+                "x1": 138.05,
+                "y1": 24.76,
+                "x2": 306.7,
+                "y2": 282.24
+            }
+        }
+    ]
+}

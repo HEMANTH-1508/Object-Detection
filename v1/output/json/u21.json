@@ -1,0 +1,27 @@
+{
+    "image": "u21.jpeg",
+    "detections": [
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.8632,
+            "bounding_box": {
+                "x1": 226.86,
+                "y1": 0.0,
+                "x2": 328.0,
+                "y2": 178.86
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.7159,
+            "bounding_box": {
+                "x1": 0.0,
+                "y1": 173.09,
+                "x2": 328.0,
+                "y2": 323.45
+            }
+        }
+    ]
+}

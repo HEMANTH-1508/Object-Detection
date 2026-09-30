@@ -1,0 +1,38 @@
+{
+    "image": "k18.jpeg",
+    "detections": [
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.9552,
+            "bounding_box": {
+                "x1": 166.36,
+                "y1": 151.36,
+                "x2": 254.94,
+                "y2": 244.01
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.949,
+            "bounding_box": {
+                "x1": 122.6,
+                "y1": 113.56,
+                "x2": 249.99,
+                "y2": 179.46
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.8432,
+            "bounding_box": {
+                "x1": 119.07,
+                "y1": 90.67,
+                "x2": 222.84,
+                "y2": 144.15
+            }
+        }
+    ]
+}
