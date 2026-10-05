@@ -1,0 +1,82 @@
+{
+    "image": "VID20250415111704_mp4-0019_jpg.rf.2c3d3c317cc984fd85bc41c2d5135f34.jpg",
+    "detections": [
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.8862,
+            "bounding_box": {
+                "x1": 195.5,
+                "y1": 283.1,
+                "x2": 247.47,
+                "y2": 371.42
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.848,
+            "bounding_box": {
+                "x1": 39.46,
+                "y1": 483.75,
+                "x2": 149.88,
+                "y2": 639.32
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.6921,
+            "bounding_box": {
+                "x1": 0.0,
+                "y1": 263.19,
+                "x2": 28.19,
+                "y2": 346.97
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.6465,
+            "bounding_box": {
+                "x1": 0.03,
+                "y1": 261.41,
+                "x2": 39.47,
+                "y2": 346.55
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.5838,
+            "bounding_box": {
+                "x1": 330.55,
+                "y1": 337.89,
+                "x2": 368.56,
+                "y2": 399.52
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.5702,
+            "bounding_box": {
+                "x1": 167.79,
+                "y1": 384.64,
+                "x2": 261.04,
+                "y2": 577.53
+            }
+        },
+        {
+            "class_id": 0,
+            "class_name": "monitor",
+            "confidence": 0.3375,
+            "bounding_box": {
+                "x1": 351.03,
+                "y1": 532.21,
+                "x2": 402.41,
+                "y2": 602.62
+            }
+        }
+    ]
+}
